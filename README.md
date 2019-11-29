@@ -1,7 +1,7 @@
 # SSSLabel
 Fixed an issue where wordwrap did not work in UILabel
 
-For example, if a Hangul string is entered in UILabel, the string will be displayed as shown below even if you set byWordWrapping.
+For example, if a Hangul string is entered in UILabel, even if you set byWordWrapping, you can see like this:
 ![asis](org.png)
 
 But when you use  this label, you can check it like this:
