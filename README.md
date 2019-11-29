@@ -8,5 +8,5 @@ But when you use  this label, you can check it like this:
 ![asis](sss.png)
 
 # CONTACT
-Please contact me if there are any improvements or issues in the code.
+Please contact me if there are any improvements or issues in the code.\
 lhseok0228@gmail.com
